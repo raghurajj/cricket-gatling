@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.GetPlayerSimulation",
+  "simulationId": "getplayersimulation",
+  "start": 1646719304823,
+  "description": "dv",
+  "scenarios": ["get Player"],
+  "assertions": [
+
+  ]
+}

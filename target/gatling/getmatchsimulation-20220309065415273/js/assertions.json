@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.GetMatchSimulation",
+  "simulationId": "getmatchsimulation",
+  "start": 1646808855273,
+  "description": "",
+  "scenarios": ["get Match"],
+  "assertions": [
+
+  ]
+}
